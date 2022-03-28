@@ -1,0 +1,2 @@
+# NC
+Solution Newbie Contest
